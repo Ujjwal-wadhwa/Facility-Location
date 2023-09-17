@@ -41,5 +41,5 @@ We ensure that customer demand is met, and shipping only occurs from built facil
 
 ## Repository
 
-You can download this repository, by [clicking here]([repository_link](https://github.com/Ujjwal-wadhwa/Facility-Location/archive/refs/heads/main.zip)https://github.com/Ujjwal-wadhwa/Facility-Location/archive/refs/heads/main.zip).
+You can download this repository, by [repository_link](https://github.com/Ujjwal-wadhwa/Facility-Location/archive/refs/heads/main.zip)
 
